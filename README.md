@@ -1,7 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/8wgCKhpZ)
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18378014&assignment_repo_type=AssignmentRepo)
 Explain the fundamental concepts of version control and why GitHub is a popular tool for managing versions of code. How does version control help in maintaining project integrity?
-GitHub is a popular platform for version control, offering features like branching, merging, and collaboration tools. It helps maintain project integrity by preventing conflicts, facilitating teamwork, and providing a record of changes.
+GitHub is a popular platform for version control and it offers features like branching, merging, and collaboration tools. It helps maintain project integrity by preventing conflicts, facilitating teamwork, and providing a record of changes.
 
 Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
 To set up a new GitHub repository, create a new repository on GitHub, initialize Git in your local project folder, add files to Git, commit changes, and push them to the remote repository on GitHub. Key decisions include naming the repository, choosing a license, and setting up collaboration settings.
